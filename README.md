@@ -1,7 +1,7 @@
 # Forklift
 A relatively simple http load-balancer written in Go.
 
-Rotates through hosts and distubtes requests based on uptime.
+Rotates through hosts and distributes requests based on uptime.
 ## Details
 Forklift will probe all hosts to assemble an up-to-date list of available hosts for rotation periodically based on the "periodicHostCheckDelay" option.
 
