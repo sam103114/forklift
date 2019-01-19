@@ -1,4 +1,4 @@
-![](https://github.com/sam103114/forklift/blob/master/Forklift.png =100x100)
+![alt text](https://github.com/sam103114/forklift/blob/master/Forklift.png =100x100)
 # Forklift
 A relatively simple http load-balancer written in Go.
 
