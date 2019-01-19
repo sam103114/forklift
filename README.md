@@ -1,3 +1,4 @@
+![alt text](https://github.com/sam103114/forklift/logo.png "Forklift logo")
 # Forklift
 A relatively simple http load-balancer written in Go.
 
